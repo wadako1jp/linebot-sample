@@ -1,0 +1,23 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "京都",
+        "text": "どこいく？",
+        "data": "https://www.booking.com/index.ja.htmlhttps://www.booking.com/index.ja.html"
+      },
+      {
+        "type": "message",
+        "label": "東京",
+        "text": "そうだ、京都に行こう。"
+      }
+    ],
+    "thumbnailImageUrl": "https://lh3.googleusercontent.com/ZLcUHOXe6qaltsM5GqZiXEwLIYE3Q-NMFvD6m9vxAOIU4WzX_PJhNQs0LuezA5IW-xY3BdEKLFAIG5HjpcbU9GJVc21x5KDpV53TVOJUXI2g0pmr0Wm-9Yow9hFzoI2De0R2fwQJ7ncdArBpIJJhTs3_z8iaMEvwg45H1Kuy04c0aaevSLKeeYAEXjIAiF4jhKyks57yNI27x4yNx3-2colTgcHetrbB5u73nc2eC226moenFAb9WG2hz1KzDEMrRb1h14PfS4VOza6ynlvxeqlThX-gRaUhoTnD-aCsuNY4TBO5yPDWqEZNufMNOCySYUC-Yo6XAWoAsqD0aR4CX8ERTHsbA9B1y4xA-idNwLnBxPZoarV7USGQIS_ervKLO9-Rh0PiqBkX2PPVAjM8BBoOPFh_3dWbjoYPcVRIdFm9qLwzoS2hYafh6msGZ9gm2t0N3_z3FAMzKv0gBvzj6czsjgWwF_SVX9ch4SX9UOV1IDanAENFhaWX9VRDPp-NgUk8oBec1eW6KpfmpXxGxycPKJf5KOkFHhoOJAH1yZRTnQJ3HQaXvLqgcFfSJYPCg2w73hnb_PYBkD0FGfcqtWYWEcEw1hwFxa2ckGUE0YuoWpC0oItrXBlVoZFAYZRxHC323sVgppYIMKs3kCn52_nU=w308-h231-no",
+    "title": "行きたい都市",
+    "text": "どこに行く？"
+  }
+}
